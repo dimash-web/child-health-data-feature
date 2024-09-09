@@ -6,7 +6,7 @@ This Jupyter notebook demonstrates the creation of a simple data feature prototy
 * Searches for related news articles using the New York Times Article Search API
 * Displays up to 10 recent articles about the specified company
 
-**Prerequisites
+## Prerequisites
 To run this notebook, you need to set up API keys for:
 
 1. Alpha Vantage API (for stock ticker to company name conversion)
