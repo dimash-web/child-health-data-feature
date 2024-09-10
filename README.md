@@ -1,4 +1,4 @@
-# Child Welfare Data Feature - Assignment 01 - Created in collaboration with Lisa
+# Child Welfare Data Feature - Assignment 01 - Created in collaboration with Lisa Cao
 This Jupyter notebook demonstrates the creation of a data feature that allows users to find specific child welfare related data in a chosen country.
 
 ## Features
