@@ -1,23 +1,14 @@
 # Child Welfare Data Feature - Assignment 01 - Created in collaboration with Lisa
-This Jupyter notebook demonstrates the creation of a simple data feature prototype that helps users find specific child welfare related data in a chosen country.
+This Jupyter notebook demonstrates the creation of a data feature that allows users to find specific child welfare related data in a chosen country.
 
 ## Features
-* Converts a stock ticker symbol to a company name using the Alpha Vantage API
-* Searches for related news articles using the New York Times Article Search API
-* Displays up to 10 recent articles about the specified company
+* Compiles specific data related to child welfare (such as mortality, literacy, etc.) using the WHO API
+* Converts country codes of result into country names using the REST API
+* Displays results in an interactive map and table
 
 ## Prerequisites
-To run this notebook, you need to set up API keys for:
-
-1. Alpha Vantage API (for stock ticker to company name conversion)
-2. New York Times API (for article search)
-
-Make sure to add these API keys to the SECRETS tab in Google Colab.
+To run this notebook, you do not need to set up API keys! 
 
 ## Usage
-1. Run the notebook cells in order.
-2. When prompted, enter a stock ticker symbol (e.g., AAPL for Apple Inc.).
-3. The notebook will display up to 10 recent news articles related to the company.
-
-## Note
-This is a prototype for educational purposes. In a real-world application, additional features such as a user interface, ability to add/remove tickers, financial metrics, and robust error handling would be implemented.
+1. Run the notebook cells all together.
+2. Enjoy playing around with the results!
