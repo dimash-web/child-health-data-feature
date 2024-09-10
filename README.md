@@ -1,5 +1,5 @@
-# PPDS - Activity 01 - Data Features
-This Jupyter notebook demonstrates the creation of a simple data feature prototype that helps users find news articles related to a specific stock ticker.
+# Child Welfare Data Feature - Assignment 01 - Created in collaboration with Lisa
+This Jupyter notebook demonstrates the creation of a simple data feature prototype that helps users find specific child welfare related data in a chosen country.
 
 ## Features
 * Converts a stock ticker symbol to a company name using the Alpha Vantage API
